@@ -1,17 +1,17 @@
-### Hi there 👋
-![TUM](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvBb9snIsKuObxCtsF_jjrdn4AMu7gskykEnpgMaI3I34IUt4&s)
+### Ausbildung
 
-<!--
-**timontsiolis/timontsiolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Wirtschaftsinformatik
+Technische Universität München
+Oktober 2018 bis Heute
 
-Here are some ideas to get you started:
+#### Umweltingenieurwesen
+Technische Universität München
+2015 bis 2018
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Abitur
+Willi-Graf-Gymnasium - München
+2006 bis 2014
+
+#### Grundschule
+Montessorischule München
+2002 bis 2006
