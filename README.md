@@ -6,7 +6,8 @@ Oktober 2018 bis Heute
 
 #### Umweltingenieurwesen
 Technische Universität München
-2015 bis 2018
+2015 bis 2018 
+Ohne Abschluss
 
 #### Abitur
 Willi-Graf-Gymnasium - München
